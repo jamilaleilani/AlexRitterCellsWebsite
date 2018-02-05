@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  color: rgb(0, 150, 255);
+}
+
+
+
+.navlinks {
+  text-decoration: none;
+  font-family: futura, sans-serif;
+  font-size: 2em;
+  margin: 1em;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  background: black;
+  justify-content: center;
+  align-content: center;
+}
+
+.videolinks {
+  display: block;
+}
